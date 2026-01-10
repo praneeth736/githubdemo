@@ -1,0 +1,42 @@
+body {
+    background-color: #f4f6f8;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 300px;
+    margin: 80px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+    margin: 8px 0;
+}
+
+button {
+    width: 95%;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
